@@ -1,0 +1,546 @@
+Peg Solitaire is initialized
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p p p . p p p p 
+6	p p p p p p p p p 
+7	      p p p       
+8	      p p p       
+9	      p p p       
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p p p . p p p p 
+6	p p p p p p p p p 
+7	      p p p       
+8	      p p p       
+9	      p p p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c4-r
+c4-r is illegal move!
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p p p . p p p p 
+6	p p p p p p p p p 
+7	      p p p       
+8	      p p p       
+9	      p p p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c5-r
+Your move is: c5-r
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p . . p p p p p 
+6	p p p p p p p p p 
+7	      p p p       
+8	      p p p       
+9	      p p p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+d7-u
+Your move is: d7-u
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p . p p p p p p 
+6	p p p . p p p p p 
+7	      . p p       
+8	      p p p       
+9	      p p p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+Computer move: d9-u
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p . p p p p p p 
+6	p p p . p p p p p 
+7	      p p p       
+8	      . p p       
+9	      . p p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+Computer move: f9-l
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p . p p p p p p 
+6	p p p . p p p p p 
+7	      p p p       
+8	      . p p       
+9	      p . .       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+Computer move: f7-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p . p p p p p p 
+6	p p p . p p p p p 
+7	      p p .       
+8	      . p .       
+9	      p . p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+Computer move: d7-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p . p p p p p p 
+6	p p p . p p p p p 
+7	      . . p       
+8	      . p .       
+9	      p . p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+Computer move: e5-l
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p p p . . p p p p 
+6	p p p . p p p p p 
+7	      . . p       
+8	      . p .       
+9	      p . p       
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+f
+Computer move: b5-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p p p p p p p 
+5	p . . p . p p p p 
+6	p p p . p p p p p 
+7	      . . p       
+8	      . p .       
+9	      p . p       
+
+Computer move: d4-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p p p p p 
+5	p . . . . p p p p 
+6	p p p p p p p p p 
+7	      . . p       
+8	      . p .       
+9	      p . p       
+
+Computer move: g5-l
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p p p p p 
+5	p . . . p . . p p 
+6	p p p p p p p p p 
+7	      . . p       
+8	      . p .       
+9	      p . p       
+
+Computer move: f7-u
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p p p p p 
+5	p . . . p p . p p 
+6	p p p p p . p p p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: h6-l
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p p p p p 
+5	p . . . p p . p p 
+6	p p p p p p . . p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: e6-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p p p p p 
+5	p . . . p p . p p 
+6	p p p p . . p . p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: f4-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p . p p p 
+5	p . . . p . . p p 
+6	p p p p . p p . p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: i5-l
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p . p p p 
+5	p . . . p . p . . 
+6	p p p p . p p . p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: c6-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      p p p       
+3	      p p p       
+4	p p p . p . p p p 
+5	p . . . p . p . . 
+6	p p . . p p p . p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: d2-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p p p p p . p p p 
+5	p . . . p . p . . 
+6	p p . . p p p . p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: f6-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p p p p p . p p p 
+5	p . . . p . p . . 
+6	p p . . p . . p p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: d4-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p p p . . p p p p 
+5	p . . . p . p . . 
+6	p p . . p . . p p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: b4-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p . . p . p p p p 
+5	p . . . p . p . . 
+6	p p . . p . . p p 
+7	      . . .       
+8	      . p .       
+9	      p . p       
+
+Computer move: e5-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p . . p . p p p p 
+5	p . . . . . p . . 
+6	p p . . . . . p p 
+7	      . p .       
+8	      . p .       
+9	      p . p       
+
+Computer move: g4-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p . . p . p . p p 
+5	p . . . . . . . . 
+6	p p . . . . p p p 
+7	      . p .       
+8	      . p .       
+9	      p . p       
+
+Computer move: h6-l
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p . . p . p . p p 
+5	p . . . . . . . . 
+6	p p . . . p . . p 
+7	      . p .       
+8	      . p .       
+9	      p . p       
+
+Computer move: i4-l
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p . . p . p p . . 
+5	p . . . . . . . . 
+6	p p . . . p . . p 
+7	      . p .       
+8	      . p .       
+9	      p . p       
+
+Computer move: a6-r
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p . . p . p p . . 
+5	p . . . . . . . . 
+6	. . p . . p . . p 
+7	      . p .       
+8	      . p .       
+9	      p . p       
+
+Computer move: e7-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	p . . p . p p . . 
+5	p . . . . . . . . 
+6	. . p . . p . . p 
+7	      . . .       
+8	      . . .       
+9	      p p p       
+
+Computer move: a4-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . p p       
+3	      . p p       
+4	. . . p . p p . . 
+5	. . . . . . . . . 
+6	p . p . . p . . p 
+7	      . . .       
+8	      . . .       
+9	      p p p       
+
+Computer move: e2-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . . p       
+3	      . . p       
+4	. . . p p p p . . 
+5	. . . . . . . . . 
+6	p . p . . p . . p 
+7	      . . .       
+8	      . . .       
+9	      p p p       
+
+Computer move: f3-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . . p       
+3	      . . .       
+4	. . . p p . p . . 
+5	. . . . . p . . . 
+6	p . p . . p . . p 
+7	      . . .       
+8	      . . .       
+9	      p p p       
+
+Computer move: f5-d
+
+
+	a b c d e f g h i 
+1	      p p p       
+2	      . . p       
+3	      . . .       
+4	. . . p p . p . . 
+5	. . . . . . . . . 
+6	p . p . . . . . p 
+7	      . . p       
+8	      . . .       
+9	      p p p       
+
+Computer move: f1-d
+
+
+	a b c d e f g h i 
+1	      p p .       
+2	      . . .       
+3	      . . p       
+4	. . . p p . p . . 
+5	. . . . . . . . . 
+6	p . p . . . . . p 
+7	      . . p       
+8	      . . .       
+9	      p p p       
+
+Computer move: e4-l
+
+
+	a b c d e f g h i 
+1	      p p .       
+2	      . . .       
+3	      . . p       
+4	. . p . . . p . . 
+5	. . . . . . . . . 
+6	p . p . . . . . p 
+7	      . . p       
+8	      . . .       
+9	      p p p       
+
+Computer move: d1-r
+
+
+	a b c d e f g h i 
+1	      . . p       
+2	      . . .       
+3	      . . p       
+4	. . p . . . p . . 
+5	. . . . . . . . . 
+6	p . p . . . . . p 
+7	      . . p       
+8	      . . .       
+9	      p p p       
+
+You end the game with 500 points
+Sleeping for 3 seconds...
+You end the game with 500 points
+

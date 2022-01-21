@@ -1,0 +1,355 @@
+Eight Puzzle Initialized
+
+|X	|7	|5	
+--	--	--
+
+|3	|4	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+********************
+
+|X	|7	|5	
+--	--	--
+
+|3	|4	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+4-u
+4-u is an illegal move command!
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+3-u
+
+|3	|7	|5	
+--	--	--
+
+|X	|4	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+4-l
+
+|3	|7	|5	
+--	--	--
+
+|4	|X	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|X	|5	
+--	--	--
+
+|4	|7	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+Computer move: 7-d
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|X	|3	|5	
+--	--	--
+
+|4	|7	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+Computer move: 3-r
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|X	|5	
+--	--	--
+
+|4	|7	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+Computer move: 3-l
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|7	|5	
+--	--	--
+
+|4	|X	|8	
+--	--	--
+
+|1	|6	|2	
+--	--	--
+
+
+Computer move: 7-u
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|7	|5	
+--	--	--
+
+|4	|6	|8	
+--	--	--
+
+|1	|X	|2	
+--	--	--
+
+
+Computer move: 6-u
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|7	|5	
+--	--	--
+
+|4	|6	|8	
+--	--	--
+
+|X	|1	|2	
+--	--	--
+
+
+Computer move: 1-r
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|7	|5	
+--	--	--
+
+|X	|6	|8	
+--	--	--
+
+|4	|1	|2	
+--	--	--
+
+
+Computer move: 4-d
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|7	|5	
+--	--	--
+
+|4	|6	|8	
+--	--	--
+
+|X	|1	|2	
+--	--	--
+
+
+Computer move: 4-u
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|3	|7	|5	
+--	--	--
+
+|X	|6	|8	
+--	--	--
+
+|4	|1	|2	
+--	--	--
+
+
+Computer move: 4-d
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+c
+
+|X	|7	|5	
+--	--	--
+
+|3	|6	|8	
+--	--	--
+
+|4	|1	|2	
+--	--	--
+
+
+Computer move: 3-d
+Please enter a valid command (PegSolitaire: b4-r 	 Eight Puzzle:7-u):
+Press c to make one move computer one move
+Press f to let computer play until the end
+Press 0 to end the game
+f
+
+
+(30 seconds later)
+
+
+Computer move: 5-r
+
+|1	|2	|3	
+--	--	--
+
+|4	|6	|8	
+--	--	--
+
+|7	|5	|X	
+--	--	--
+
+
+Computer move: 5-l
+
+|1	|2	|3	
+--	--	--
+
+|4	|6	|X	
+--	--	--
+
+|7	|5	|8	
+--	--	--
+
+
+Computer move: 8-d
+
+|1	|2	|3	
+--	--	--
+
+|4	|6	|8	
+--	--	--
+
+|7	|5	|X	
+--	--	--
+
+
+Computer move: 8-u
+
+|1	|2	|3	
+--	--	--
+
+|4	|6	|X	
+--	--	--
+
+|7	|5	|8	
+--	--	--
+
+
+Computer move: 8-d
+
+|1	|2	|3	
+--	--	--
+
+|4	|6	|8	
+--	--	--
+
+|7	|5	|X	
+--	--	--
+
+
+Computer move: 8-u
+
+|1	|2	|3	
+--	--	--
+
+|4	|6	|X	
+--	--	--
+
+|7	|5	|8	
+--	--	--
+
+
+Computer move: 8-d
+
+|1	|2	|3	
+--	--	--
+
+|4	|X	|6	
+--	--	--
+
+|7	|5	|8	
+--	--	--
+
+
+Computer move: 6-r
+
+|1	|2	|3	
+--	--	--
+
+|4	|5	|6	
+--	--	--
+
+|7	|X	|8	
+--	--	--
+
+
+Computer move: 5-u
+
+|1	|2	|3	
+--	--	--
+
+|4	|5	|6	
+--	--	--
+
+|7	|8	|X	
+--	--	--
+
+
+Computer move: 8-l
+You end the game with 0 points
+Sleeping for 3 seconds...
+You end the game with 0 points
+
